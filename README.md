@@ -160,14 +160,3 @@ ns_red/ns_yellow/ns_green
 ew_red/ew_yellow/ew_green
 fault
 ```
-
-## Interview talking points
-
-- Moore FSM design and safe state transitions.
-- Arbitration using demand plus aging.
-- Bounded-wait fairness / starvation prevention.
-- Why an empty road does not build wait debt.
-- Independent safety monitoring and fail-safe output behavior.
-- Self-checking verification and fault injection.
-- Plain Verilog (`reg`/`wire`, `always @(*)`/`always @(posedge clk)`)
-  rather than SystemVerilog — deliberate choice to match coursework.
