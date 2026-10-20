@@ -59,7 +59,6 @@ FlowGuard-RTL/
 ├── run.bat                   # Windows simulation script
 ├── README.md
 ├── DESIGN_NOTES.md
-├── VERIFICATION_REPORT.md
 └── .gitignore
 ```
 
